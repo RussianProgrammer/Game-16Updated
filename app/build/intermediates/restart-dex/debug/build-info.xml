@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="532393278281526"
+    token="-5457240946545597991" >
+
+    <task
+        name="javac"
+        duration="53" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="529328964277668"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Work\Desktop\Game16-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="530868789293718"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Work\Desktop\Game16-master\app\build\intermediates\builds\debug\530868789293718\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="530989286129159"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Work\Desktop\Game16-master\app\build\intermediates\builds\debug\530989286129159\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="531013447026166"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Work\Desktop\Game16-master\app\build\intermediates\builds\debug\531013447026166\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="531041687980117"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Work\Desktop\Game16-master\app\build\intermediates\builds\debug\531041687980117\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="531073752645599"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Work\Desktop\Game16-master\app\build\intermediates\builds\debug\531073752645599\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="531092410146601"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Work\Desktop\Game16-master\app\build\intermediates\builds\debug\531092410146601\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="532393278281526" />
+
+</instant-run>
